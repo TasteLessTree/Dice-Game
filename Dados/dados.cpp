@@ -9,7 +9,7 @@ void menuPrincipal()
     cout << "\n=== Juego de Dados ===" << endl;
     cout << "|      1. Jugar      |" << endl;
     cout << "|      2. Salir      |" << endl;
-    cout << "=== Por Andrés Pe. ===" << endl;
+    cout << "=== Por TasteLessT ===" << endl;
 }
 
 // Generar número aleatorio entre 1 y 6
